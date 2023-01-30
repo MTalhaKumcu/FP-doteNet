@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\FinalProjectVol2\bin\Debug\FinalProjectVol2.exe.config
+C:\Users\User\source\repos\FinalProjectVol2\bin\Debug\FinalProjectVol2.exe
+C:\Users\User\source\repos\FinalProjectVol2\bin\Debug\FinalProjectVol2.pdb
+C:\Users\User\source\repos\FinalProjectVol2\obj\Debug\FinalProjectVol2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FinalProjectVol2\obj\Debug\FinalProjectVol2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FinalProjectVol2\obj\Debug\FinalProjectVol2.exe
+C:\Users\User\source\repos\FinalProjectVol2\obj\Debug\FinalProjectVol2.pdb
+C:\Users\MehmetKumcu\OneDrive - Akademia Ekonomiczno-Humanistyczna w Warszawie\Desktop\c#\FinalProjectVol2\bin\Debug\FinalProjectVol2.exe.config
+C:\Users\MehmetKumcu\OneDrive - Akademia Ekonomiczno-Humanistyczna w Warszawie\Desktop\c#\FinalProjectVol2\bin\Debug\FinalProjectVol2.exe
+C:\Users\MehmetKumcu\OneDrive - Akademia Ekonomiczno-Humanistyczna w Warszawie\Desktop\c#\FinalProjectVol2\bin\Debug\FinalProjectVol2.pdb
+C:\Users\MehmetKumcu\OneDrive - Akademia Ekonomiczno-Humanistyczna w Warszawie\Desktop\c#\FinalProjectVol2\obj\Debug\FinalProjectVol2.csproj.AssemblyReference.cache
+C:\Users\MehmetKumcu\OneDrive - Akademia Ekonomiczno-Humanistyczna w Warszawie\Desktop\c#\FinalProjectVol2\obj\Debug\FinalProjectVol2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MehmetKumcu\OneDrive - Akademia Ekonomiczno-Humanistyczna w Warszawie\Desktop\c#\FinalProjectVol2\obj\Debug\FinalProjectVol2.csproj.CoreCompileInputs.cache
+C:\Users\MehmetKumcu\OneDrive - Akademia Ekonomiczno-Humanistyczna w Warszawie\Desktop\c#\FinalProjectVol2\obj\Debug\FinalProjectVol2.exe
+C:\Users\MehmetKumcu\OneDrive - Akademia Ekonomiczno-Humanistyczna w Warszawie\Desktop\c#\FinalProjectVol2\obj\Debug\FinalProjectVol2.pdb
